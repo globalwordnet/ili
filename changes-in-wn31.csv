@@ -83,7 +83,6 @@ new,,,00589500-v,fire/flame up
 new,,,00609193-v,minor
 new,,,00615215-v,sell out
 new,,,00663151-v,have the distinction
-new,,,00690278-v,trust
 new,,,00897044-v,take sides with/take someone's side
 new,,,00904407-v,justify
 new,,,01063353-v,pin on
@@ -107,7 +106,6 @@ new,,,02457192-v,repress
 new,,,02483910-v,set aside
 new,,,02562263-v,root
 new,,,02578494-v,gyp/gip
-new,,,02605751-v,book
 new,,,02762433-v,underrun
 new,,,00034873-n,exercise
 new,,,00035244-n,update
@@ -116,18 +114,14 @@ new,,,00767587-n,offense/offence
 new,,,00781071-n,gyp/gip
 new,,,00913288-n,bricolage
 new,,,00951435-n,technology
-new,,,00951878-n,engineering
 new,,,01114808-n,neuromarketing/neuro-marketing
 new,,,01117127-n,sellout
 new,,,01145712-n,warm up
 new,,,01325752-n,kill
 new,,,02675726-n,piano accordion
 new,,,02675827-n,button accordion
-new,,,02716785-n,roundel
-new,,,02716929-n,annulet
 new,,,02799187-n,hurdy gurdy/hurdy-gurdy/wheel fiddle
 new,,,03023088-n,chinos
-new,,,03025214-n,chlorambucil/Leukeran
 new,,,03033532-n,moulin/glacier mill
 new,,,03090964-n,Chemnitzer concertina
 new,,,03091072-n,English concertina
@@ -136,11 +130,7 @@ new,,,03098803-n,contact microphone/contact mike
 new,,,03268195-n,purple/the purple
 new,,,03403064-n,frock
 new,,,03474619-n,gun microphone/shotgun microphone/gun mike/shotgun mike
-new,,,03691288-n,Loestrin
-new,,,03695166-n,Lo/Ovral
 new,,,03707142-n,technology
-new,,,03783668-n,Modicon
-new,,,03835818-n,Norlestrin
 new,,,03871242-n,monotype
 new,,,03905538-n,patina
 new,,,03905667-n,patina
@@ -218,7 +208,6 @@ new,,,09780734-n,concertinist
 new,,,09851585-n,sellout
 new,,,10020122-n,freethinker
 new,,,10021663-n,populist
-new,,,10032289-n,dietician/dietitian
 new,,,10190274-n,Helvetian
 new,,,10230422-n,interior decorator/house decorator/room decorator/decorator
 new,,,10719072-n,hobo/migrant worker
@@ -237,13 +226,6 @@ new,,,13925916-n,figure eight/figure 8/figure of eight
 new,,,13969830-n,echelon
 new,,,14483181-n,couth
 new,,,14604142-n,technicality
-new,,,14606023-n,recycling
-new,,,14801263-n,Brioschi
-new,,,14801347-n,Bromo-seltzer
-new,,,14801600-n,Maalox
-new,,,14801682-n,Mylanta
-new,,,14801927-n,Pepto-bismal
-new,,,14802015-n,Rolaids
 new,,,14990367-n,polynucleotide
 new,,,14993642-n,oligonucleotide/oligo
 new,,,15142101-n,grace/grace period
@@ -253,7 +235,6 @@ new,,,00024458-a,accustomed to/used to
 new,,,00024914-a,unaccustomed to
 new,,,00025245-a,unused to(p)
 new,,,00040305-a,supine
-new,,,00042912-a,activated
 new,,,00086117-a,amuck/amok/berserk
 new,,,00129027-a,next
 new,,,00138462-a,on time
@@ -269,12 +250,8 @@ new,,,00587318-a,mutable
 new,,,00613690-a,classical/classic
 new,,,00629437-a,hollow
 new,,,00640609-a,untraveled/untravelled
-new,,,00679196-a,alternate(a)/alternating(a)
 new,,,00695843-a,superficial
-new,,,00770909-a,circuitous/roundabout
-new,,,00784503-a,knifelike
 new,,,00869069-a,star-struck
-new,,,00932684-a,dead
 new,,,00973992-a,garden
 new,,,00994908-a,sylphlike/sylphic
 new,,,01006955-a,out-of-the-way/out of the way
@@ -284,7 +261,6 @@ new,,,01478913-a,incorrigible
 new,,,01502106-a,unmeaning
 new,,,01516397-a,palpable
 new,,,01517273-a,shitless/witless
-new,,,01554025-a,decadent/fin-de-siecle
 new,,,01597905-a,folksy
 new,,,01640818-a,oldline/old-line
 new,,,01676810-a,amorphous
@@ -294,11 +270,9 @@ new,,,01806604-a,pleasing
 new,,,01810291-a,unpleasing
 new,,,01822663-a,unfashionable/out of fashion
 new,,,01830584-a,effete
-new,,,01832979-a,regent(ip)
 new,,,01845051-a,refined
 new,,,01913613-a,straight up
 new,,,01940473-a,documentary
-new,,,01944611-a,real(a)
 new,,,01955070-a,effete
 new,,,01972355-a,unasked
 new,,,02097241-a,shady
@@ -314,7 +288,6 @@ new,,,02406780-a,minty
 new,,,02413520-a,wilted
 new,,,02444906-a,insufferable/unsufferable
 new,,,02445314-a,insufferable
-new,,,02450200-a,inferior
 new,,,02466984-a,embattled
 new,,,02479168-a,classic
 new,,,02490240-a,cleft
@@ -326,7 +299,6 @@ new,,,02641708-a,antitypic/antitypical
 new,,,02820296-a,technical
 new,,,02867469-a,epicanthic
 new,,,02867590-a,oxalic
-new,,,02964788-a,fundamentalist/fundamentalistic
 new,,,03024573-a,myeloid
 new,,,03119258-a,cubic
 new,,,00002935-r,barely/just
